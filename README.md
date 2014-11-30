@@ -1,4 +1,3 @@
-FelipeMedina.com.br
-===================
+# FelipeMedina.com.br
 
-Simply my website.
+Why are you here? Go to my released website. http://www.felipemedina.com.br/ :)
