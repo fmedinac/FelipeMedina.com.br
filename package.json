@@ -1,0 +1,23 @@
+{
+  "name": "Base",
+  "version": "0.0.1",
+  "author": "",
+  "dependencies": {
+    "bower": "~1.2.8",
+    "css-sprite": "^0.9.0",
+    "geddy": "~0.12.2",
+    "gulp": "~3.5.0",
+    "gulp-autoprefixer": "0.0.4",
+    "gulp-connect": "~0.3.0",
+    "gulp-less": "~1.2.1",
+    "gulp-livereload": "~0.2.0",
+    "gulp-minify-css": "~0.2.0",
+    "handlebars": "*",
+    "path": "~0.4.9",
+    "tiny-lr": "0.0.5"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "0.8.x"
+  }
+}

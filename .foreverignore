@@ -1,0 +1,7 @@
+.git
+**/app/assets/**
+**/app/views/**
+server.js
+Gulpfile.js
+**/log/**
+**/public/**
