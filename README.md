@@ -1,6 +1,6 @@
 # FelipeMedina.com.br
 
-Why are you here? Go to my released website. 
+Whatahell are you doing here? Go to my released website. 
 
 http://www.felipemedina.com.br/
 
